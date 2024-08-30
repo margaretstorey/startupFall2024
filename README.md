@@ -1,10 +1,10 @@
 ![Alt text](images/logo.png)
 
 ##### [Department of Computer Science - University of Victoria](http://www.csc.uvic.ca/)
-##### [SENG 480A](https://heat.csc.uvic.ca/coview/course/2024011/SENG480A) Spring, 2024
+##### [SENG 480A](https://heat.csc.uvic.ca/coview/course/202409/SENG480A) Fall, 2024
 <br>
 
-This course aims to give students the tools and skills to rapidly develop and transform innovative ideas (of their own choosing) into working projects utilizing advanced mobile, social, cloud, and web technologies. In particular, students will experience the style of development activity that is common in a new startup company. The project based course will be augmented by a series of lectures to accelerate learning with new web technologies, product design, agile development practices, user interface design, and project management. During the term, students will work in teams of 5 students. Each team will be closely mentored by several staff members (including the instructors and one or more members from industry). Students will gain valuable technical skills and experience working in small teams, while facing real-world challenges that include a tight schedule, hard deadlines, and self directed learning.
+This course aims to give students the tools and skills to rapidly develop and transform innovative ideas (of their own choosing) into working projects utilizing advanced mobile, social, cloud, and web technologies. In particular, students will experience the style of development activity that is common in a new startup company. The project based course will be augmented by a series of lectures to accelerate learning with new web technologies, product design, agile development practices, user interface design, and project management. During the term, students will work in teams comprised of business and computer science students. Each team will be closely mentored by several staff members (including the instructors and one or more members from industry). Students will gain valuable technical skills and experience working in small teams, while facing real-world challenges that include a tight schedule, hard deadlines, and self directed learning.
 
 Projects will include designing and developing a live web or mobile system. Each team will also maintain a web page with project documentation and design documents.
 
@@ -13,8 +13,10 @@ See [course requirements](requirements.md), [student testimonials](testimonials.
 ---
 
 ⚠️ Classes will be on Fridays 1:30-4:20.
-We will meet at [MAC](https://www.uvic.ca/search/maps-buildings/buildings/maclaurin.php) D283 
-⚠️ (Note change of room from original posting. 
+We will meet at HHB 110
+
+Please see Brightspace for a more detailed version of the schedule with links to slides.
+
 
 <br> *Please note this is a tentative schedule. The slides and other materials will be available in the [resources section](resources).*
 
@@ -22,7 +24,7 @@ We will meet at [MAC](https://www.uvic.ca/search/maps-buildings/buildings/maclau
 
 |     | Date          | Meeting agenda                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 |----:|---------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|   1 | 12 Jan, 2024  | 1:30-2:15 🔈 Course Overview and Mentor Introductions, Dr. Margaret-Anne Storey  <br> 2:15-2:30 🔈 Some Pointers about Intellectual Property for Projects, Aislinn Sirk (UVic) <br> 2:30-2:50 ☕ Break <br> 2:50-3:30 🔈 Founder's Story, Humaira Ahmed (Best Human) <br> 3:30-4:10 🔈 Founder's Story, Brandon Wright (BRNKL)                                                                                                                                                                                                                         |
+|   1 | XXX  | 1:30-2:15 🔈 Course Overview and Mentor Introductions, Dr. Margaret-Anne Storey  <br> 2:15-2:30 🔈 Some Pointers about Intellectual Property for Projects, Aislinn Sirk (UVic) <br> 2:30-2:50 ☕ Break <br> 2:50-3:30 🔈 Founder's Story, Humaira Ahmed (Best Human) <br> 3:30-4:10 🔈 Founder's Story, Brandon Wright (BRNKL)                                                                                                                                                                                                                         |
 |   2 | 19 Jan, 2024  | 1:30-2:20 🔈 Design Thinking, Experience Design, Visual Design and Designing with Users, Dr. Margaret-Anne Storey (UVic) <br> 2:20-3:10 🔈 Ideation and Creativity, Dr. Claudia Smith (UVic) -📝*Students will need a pen and paper* <br> 3:10-3:20 ☕ Break <br> 3:20-4:20 👥  Idea Pitch (Guests and Students), Storming Ideas, Forming Groups                                                                                                                                                                                                                                                                                    |
 |   3 | 26 Jan, 2024  | 1:30-2:50 🚩[Project proposal presentations](/presenting%20your%20ideas.md) <br> 2:50-3:00 ☕ Break <br> 3:00-4:20 🔈 Value Proposition Canvas, Dr. Claudia Smith (Uvic)                                                                                                                                                                                                                                                |
 |   4 | 2 Feb, 2024   | 1:30-3:00 🔈 Lecture, Dr. Margaret-Anne Storey <br>3:00-3:20 ☕ Break <br> 3:20-4:00 🔈 Rob Bennett (VIATEC), Tales of a Technical CEO.                                                                                                                      | 
@@ -76,15 +78,15 @@ We will meet at [MAC](https://www.uvic.ca/search/maps-buildings/buildings/maclau
 
 | Project Name | Team Members | Tagline | Project Link |
 | ------------ | -------------- | -------------- | -------------- |
-| ParkEase (Group 1) | Connie; Ashwin; Aarman; Angad; | TBC | https://github.com/armaanchhina/park-ease-fe |
-| RestauWants (Group 2) | Rebeca; Cam; Callum; Devin; Norman; Nick; | TBC | https://github.com/restauwants/restauwants |
-| NutriDine (Group 3) | Mehrad; Salam; Abraham; John M; | TBC | https://github.com/SENG480a-NutriDine |
-| PrintLink3d (Group 4) | James; Dylan; Matt; Joey; Daniel; Jasper; | TBC | https://github.com/J-Raymer/printlink3d |
-| UVIC HUB (Group 5) | Bipasa; Levi; Oliver; Rahul; | TBC | https://github.com/lbare/UHub |
-| Artisway (Group 6) | Julia; Jon; Jenny; Preet; Maddie; | TBC | https://github.com/MarketMate-Seng480/MarketMate |
+| TBD (Group 1) |  TBD | TBD | TBD |
+| TBD (Group 2) |  TBD | TBD | TBD |
+| TBD (Group 3) |  TBD | TBD | TBD |
+| TBD (Group 4) |  TBD | TBD | TBD |
+| TBD (Group 5) |  TBD | TBD | TBD |
+| TBD (Group 6) |  TBD | TBD | TBD |
 <br>
 
-**Office Hour:** By appointment and Thursday 1:00pm-2:30pm ECS 564 (please message on Slack or send [email](mailto:startup.programming@gmail.com) to set an alternative meeting time) 
+**Office Hour:** By appointment and before or after class.  [email](mailto:startup.programming@gmail.com) to set an alternative meeting time) 
 
 **Contact email:** [startup.programming@gmail.com](mailto:startup.programming@gmail.com)
 
@@ -93,7 +95,7 @@ This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 Int
 
 ![Alt text](https://i.creativecommons.org/l/by-sa/4.0/88x31.png "Creative Commons Attribution-ShareAlike 4.0 International License")
 
-## Intellectual Property Ownership (to be updated for 2024)
+## Intellectual Property Ownership (to be updated for Fall 2024)
 Students are asked to consult with the [project participant agreement](resources/Project_Participant_Agreement_c.pdf). UVic will agree to waive its
 interest in such IP under the following conditions:
 
