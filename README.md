@@ -42,23 +42,18 @@ Please see Brightspace for a more detailed version of the schedule with links to
 <a name="mentoring-staff"></a>
 #### Mentoring Staff
 - [Rob Bennett](https://www.linkedin.com/in/robebennett/?originalSubdomain=ca), COO and Program Director, VIATEC
-- [Sam Mod](https://www.linkedin.com/in/samarthmod/?originalSubdomain=ca), CEO and Co-Founder, Freshworks Studio
 - [Brandon Wright](https://www.linkedin.com/in/coastalbrandon/?originalSubdomain=ca), Founder and CEO, BRNKL
-- [Humaira Ahmed](https://www.linkedin.com/in/humaira-ahmed-besthuman/), Founder and CEO, Best Human (formerly Locelle)
 - [Claudia Smith, Professor](https://www.linkedin.com/in/dr-claudia-smith-29b318a/?originalSubdomain=ca), Guest Course Instructor, School of Business, UVic
 - [Jerome Etwaroo](https://www.linkedin.com/in/jerome-etwaroo-16547a33/) Director Coast Capital Innovation Center, UVic
 - [Alessandra Maciel Paz Milani](https://www.linkedin.com/in/alessandrapm/?originalSubdomain=ca), Course Staff, UVic
 - [Margaret-Anne Storey](https://margaretstorey.com/), Course Instructor, Professor, Computer Science, UVic
 
 **Additional Presenters:**
-- [Nick Addison](https://www.linkedin.com/in/nick-addison-42a90012a/) Cofounder and CTO, Truss
-- [Eric Jordan](https://www.linkedin.com/in/eric-jordan-97347111/), CEO Codename Entertainment
 - [Steven Myhill-Jones](https://www.linkedin.com/in/steven-myhill-jones-6857607/?originalSubdomain=ca), Entrepreneur/Investor and Founder of Lattitude Geographics, Chairman/CEO Daily Journal Corporation
 - [Juan Orrego](https://www.cuboh.com/), Co-Founder and CEO, Cuboh
 - [Aislinn Sirk](https://www.linkedin.com/in/aislinn-sirk-1728b119), Research Partnerships and Innovation Manager, UVic
-- [Matthew Smith](https://www.linkedin.com/in/matthew-smith250/), CEO & Co-Founder at Truss
 - [Nicole Smith](https://www.flytographer.com/), Founder and CEO, Flytographer
-- [David Yarish](https://www.linkedin.com/in/david-yarish-6a055614/), VP of Mobile Solutions and Co-Founder of Tutela Technologies (now OpenSignal)
+- More to be added
 
 **Alumni Mentors and Presenters [from prior UVic Startup courses](https://github.com/margaretstorey/startup2024/tree/main/past%20semesters):**
 - [Alexey Zagalsky](http://alexeyza.com/) (Founder of the course at UVic and Tel Aviv!)
@@ -70,7 +65,12 @@ Please see Brightspace for a more detailed version of the schedule with links to
 - [Arie van Deursen](http://www.st.ewi.tudelft.nl/~arie/)
 - [Steve Graham, Consulting CTO and Architect](https://www.linkedin.com/in/stevegraham2/)
 - [Sean Falconer](https://www.linkedin.com/in/seanf/), Head of Developer Relations, [Skyflow](https://www.skyflow.com/)
-- Matthew Smith and Nick Addison, [Mazumago](https://www.mazumago.com/about)
+- [Sam Mod](https://www.linkedin.com/in/samarthmod/?originalSubdomain=ca), CEO and Co-Founder, Freshworks Studio
+- [Eric Jordan](https://www.linkedin.com/in/eric-jordan-97347111/), CEO Codename Entertainment
+- [David Yarish](https://www.linkedin.com/in/david-yarish-6a055614/), VP of Mobile Solutions and Co-Founder of Tutela Technologies (now OpenSignal)
+- [Matthew Smith](https://www.linkedin.com/in/matthew-smith250/), CEO & Co-Founder at Truss
+- [Nick Addison](https://www.linkedin.com/in/nick-addison-42a90012a/) Cofounder and CTO, Truss
+- [Humaira Ahmed](https://www.linkedin.com/in/humaira-ahmed-besthuman/), Founder and CEO, Best Human (formerly Locelle)
  
 
 <a name="teams-and-projects"></a>
