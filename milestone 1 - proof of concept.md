@@ -1,6 +1,8 @@
 
 # Milestone 1 - Proof Of Concept Presentation
 
+## To be updated for Fall 2024 ##
+
 For the first milestone (due on 16/02/2024) you are required to provide a proof of concept of your project. By the due date you should have created a scenario that exercises the various parts of your application (e.g. client, server, DB, external resources, etc.), one or more personas and you should be able to demonstrate the primary use case and novel contribution of the whole project. You are expected to show an **End-to-End demo of your primary feature and initial MVP**. Following this presentation, we will provide some guidelines for the work ahead:
 
 ### 1. Project Hosting
