@@ -32,11 +32,11 @@ Please see Brightspace for a more detailed and up to date version of the schedul
 | 6 | 11 Oct, 2024  | 1:30-4:20 🚩 [Milestone 1 presentation](/milestone%201%20-%20proof%20of%20concept.md) - Proof Of Concept |    
 |   7 | 18 Oct, 2024 | 1:30-3:00 🔈 Business Model Canvas <br> 3:00-3:30  🔈 The Mom Test and collecting good customer feedback <br> 3:30-4:20 🔈 Pitching, branding, legal issues, monetization (open Q&A)         |
 |   8 | 25 Oct, 2024  | 1:30-4:20 👥  Coaching clinic to get ready for Milestone 2 |
-|   9 | 1 Nov, 2024 | 🚩 [Milestone 2 presentation](/milestone%202%20-%20release%20candidate.md) - Release Candidate  |                                                                                                      
+|   9 | 1 Nov, 2024 |1:30-4:20 🚩 [Milestone 2 presentation](/milestone%202%20-%20release%20candidate.md) - Release Candidate  |                                                                                                      
 |  10 | 8 Nov, 2024 | 1:30-3:00 🔈 What Role can AI Play Now and in the Future <br> 3:00-4:20 🔈 Founder guest speaker panel – Juan Orrego, founder of Cuboh; Nicole Smith, founder of Flytographer  |                              
 |  11 | 15 Nov, 2024 | TBD based on course feedback |
 |  12 | 22 Nov, 2024 | 1:30-2:10 🔈 Where to from here? What happens after the course is over? Resources, IP, funding, legal issues <br>  2:10-3:10  🔈 Guest speakers – seasoned founders share their insights <br> 3:10-3:40 👥 15 minutes per team with one of the mentors to work on one sticky problem as you prepare for Milestone 3 <br> 3:40-4:20 👥 Coaching clinic with the instructors in preparation for Milestone 3   |
-|  13 | 29 Nov, 2024  | 🚩 [Milesone 3 presentation](/milestone%203%20-%20public%20beta.md) - Public live BETA <br>  |
+|  13 | 29 Nov, 2024  | 1:30-4:20 🚩 [Milesone 3 presentation](/milestone%203%20-%20public%20beta.md) - Public live BETA <br>  |
 |  14   | 6 Dec, 2024 | 🏁 [Final submission](/final%20submission.md) *(submission by GitHub and Brightspace)* <br> No Course Meeting |                       
 
 <a name="mentoring-staff"></a>
