@@ -1,6 +1,8 @@
 
 # Milestone 2 - Release Candidate 
 
+## To be updated for Fall 2024 ##
+
 For the second milestone (due on Friday, 08/03/2024) you are required to show progress based on the feedback you've received from the mentors about Milestone 1.
 
 
