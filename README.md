@@ -15,7 +15,7 @@ See [course requirements](requirements.md), [student testimonials](testimonials.
 ⚠️ Classes will be on Fridays 1:30-4:20.
 We will meet at HHB (Harry Hickman Building) 110
 
-Please see Brightspace for a more detailed version of the schedule with links to slides.
+Please see Brightspace for a more detailed and up to date version of the schedule with links to slides.
 
 
 <br> *Please note this is a tentative schedule. The slides and other materials will be available in the [resources section](resources).*
