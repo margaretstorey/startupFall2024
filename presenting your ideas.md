@@ -1,5 +1,9 @@
 
 # Presenting Your Ideas
+
+## To be updated for Fall 2024 ##
+
+
 In our third meeting (**26/01/2024**) you should present your project idea -- we recognize this is a work in progress!
 
 Each team presentation will have **12 minutes** as follows (strict time limit):
