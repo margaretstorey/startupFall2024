@@ -2,8 +2,6 @@
 
 In general we will use the email list through Brightspace for announcements, students should ensure they are receiving those announcements. 
 
-### Weekly Meetings
-Please examine the meeting schedule dates. For the last meeting (Milestone 3) we usually try to have a social event with guests, and it **may be at a different location or scheduled for a different time of day**. So please try to block off additional time in your schedule now.  If you miss this important session, you will have to meet with the course staff later to orally present the project and your contribution.
 
 ### Intellectual Property Ownership
 Students are asked to consult with the [project participant agreement](resources/Project_Participant_Agreement.pdf). UVic will agree to waive its
