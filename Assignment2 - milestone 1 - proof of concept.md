@@ -1,5 +1,5 @@
 
-# Milestone 1 - Proof Of Concept Presentation
+# Assignment 2: Milestone 1 - Proof Of Concept Presentation
 
 ## To be updated for Fall 2024 ##
 
