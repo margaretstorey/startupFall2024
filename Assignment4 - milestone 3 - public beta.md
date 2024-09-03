@@ -1,4 +1,4 @@
-# Milestone 3 - Final Presentation (Public Beta)
+# Assignment 4 - Milestone 3 - Final Presentation (Public Beta)
 
 ## To be updated for Fall 2024 ##
   
