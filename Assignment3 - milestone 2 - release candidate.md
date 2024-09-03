@@ -1,5 +1,5 @@
 
-# Milestone 2 - Release Candidate 
+# Assignment 3 - Milestone 2 - Release Candidate 
 
 ## To be updated for Fall 2024 ##
 
