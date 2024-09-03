@@ -2,10 +2,7 @@
 
 Prerequisites:
 
-- Minimum grade of B in CSC 115 (Programming 2)
-- Minimum grade of B in CSC 225 (Algorithms and Data Structures)
-- Minimum grade of B in SENG 265 (Software Engineering Introduction)
-- 3rd or 4th year standing
+Please see the course outlines for prerequisites for SENG 480A and BCOM 450.
 
 General Requirements:
 
@@ -34,19 +31,6 @@ Each team is required to do the following:
     - If web application, must support Firefox and Chrome/Chromium (current stable version of each).
     - If mobile application, support a stable version of Android or iOS.
     - The application needs to be fully working even after the course has ended.
-9. Grade will be determined on a combination of the following:
-    - 70% of your grade will be given for presentation and progress along the semester.
-    - 30% of your grade will be determined by the course staff reviewing your final project without your presence.
-    - For each milestone a list of requirements and expectations will be provided.
-    - Extra points may be given for: challenging projects, original ideas, and collaboration with external organizations.
 
-<div align="center">
-    
-| Points | Assignments |
-| :---:| :-------------- |
-| 05 | [Presentation of Ideas](/presenting%20your%20ideas.md) |
-| 15 | [Milestone 1 - Proof Of Concept Presentation](/milestone%201%20-%20proof%20of%20concept.md) |
-| 25 | [Milestone 2 - Release Candidate](/milestone%202%20-%20release%20candidate.md)  |
-| 25 | [Milestone 3 - Final Presentation (Public Beta)](/milestone%203%20-%20public%20beta.md) |
-| 30 | [Final Submission](/final%20submission.md) |
-</div>
+
+
