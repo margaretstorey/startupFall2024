@@ -41,6 +41,7 @@
 - [Building a Story Brand](https://www.amazon.ca/s?k=building+a+story+brand&hvadid=671372770478&hvdev=c&hvlocphy=9001467&hvnetw=g&hvqmt=e&hvrand=11312231402981577527&hvtargid=kwd-313342963332&hydadcr=22457_13497860&tag=googcana-20&ref=pd_sl_3u5enrllop_e)
 - [Pitch Anything](https://www.amazon.ca/Pitch-Anything-Innovative-Presenting-Persuading/dp/0071752854/ref=sr_1_1?crid=3ORPS2NKUI14W&keywords=pitch+anything&qid=1707586076&sprefix=pitch+anythin%2Caps%2C160&sr=8-1)
 - [Sales Bible](https://www.amazon.ca/Sales-Bible-New-Ultimate-Resource/dp/1118985818/ref=sr_1_1?crid=2J1Y3BISUJKIH&keywords=sales+bible&qid=1707586096&sprefix=sales+bible%2Caps%2C167&sr=8-1)
+- [How to prepare a pitch deck](https://www.canva.com/learn/design-a-pitch-deck-that-makes-investors-say-yes/) 
 
 ---
 
