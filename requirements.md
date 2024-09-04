@@ -25,7 +25,7 @@ Each team is required to do the following:
     - Submit code (please open a GitHub repository).
     - Submit presentation files (PPTX / PDF / link to online presentation).
     - Provide a link to a demo of the application (link to live application or a demo video).
-6. Listen to feedback (given by other students and the staff members).
+6. Listen to feedback (given by other students and the staff members). Listen and carefully consider the feedback of all mentors. You will be responsible for taking notes and keeping track of this feedback.  
 7. Setup a web page (using GitHub) containing all the the above docs, presentations, screenshots, videos and download links.
 8. A completed comprehensive Business Model Canvas with supporting documentation
 9. Have a live working application on the web!
