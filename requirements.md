@@ -27,7 +27,8 @@ Each team is required to do the following:
     - Provide a link to a demo of the application (link to live application or a demo video).
 6. Listen to feedback (given by other students and the staff members).
 7. Setup a web page (using GitHub) containing all the the above docs, presentations, screenshots, videos and download links.
-8. Have a live working application on the web!
+8. A completed comprehensive Business Model Canvas with supporting documentation
+9. Have a live working application on the web!
     - If web application, must support Firefox and Chrome/Chromium (current stable version of each).
     - If mobile application, support a stable version of Android or iOS.
     - The application needs to be fully working even after the course has ended.
