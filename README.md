@@ -44,7 +44,7 @@ Please see Brightspace for a more detailed and up to date version of the schedul
 - [Rob Bennett](https://www.linkedin.com/in/robebennett/?originalSubdomain=ca), COO and Program Director, VIATEC
 - [Brandon Wright](https://www.linkedin.com/in/coastalbrandon/?originalSubdomain=ca), Founder and CEO, BRNKL
 - [Jerome Etwaroo](https://www.linkedin.com/in/jerome-etwaroo-16547a33/) Director Coast Capital Innovation Center, UVic
-- [Annabel Youens](https://www.linkedin.com/in/ayouens/) Co-Founder, Cardboard Tiger Games 
+- [Annabel Youens](https://www.linkedin.com/in/ayouens/), Founder of FairShare and Appreciation Engine
 - [Claudia Smith, Professor](https://www.linkedin.com/in/dr-claudia-smith-29b318a/?originalSubdomain=ca), Course Instructor, School of Business, UVic
 - [Margaret-Anne Storey](https://margaretstorey.com/), Course Instructor, Professor, Computer Science, UVic
 - [Alessandra Maciel Paz Milani](https://www.linkedin.com/in/alessandrapm/?originalSubdomain=ca), Course Staff, UVic
