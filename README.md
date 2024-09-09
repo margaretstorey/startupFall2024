@@ -48,6 +48,7 @@ Please see Brightspace for a more detailed and up to date version of the schedul
 - [Claudia Smith, Professor](https://www.linkedin.com/in/dr-claudia-smith-29b318a/?originalSubdomain=ca), Course Instructor, School of Business, UVic
 - [Margaret-Anne Storey](https://margaretstorey.com/), Course Instructor, Professor, Computer Science, UVic
 - [Alessandra Maciel Paz Milani](https://www.linkedin.com/in/alessandrapm/?originalSubdomain=ca), Course Staff, UVic
+- [Scarlett Koster](https://www.linkedin.com/in/scarlett-koster/recent-activity/all/), Course Staff, UVic
 
 
 **Additional Presenters:**
