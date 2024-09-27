@@ -84,9 +84,9 @@ Please see Brightspace for a more detailed and up to date version of the schedul
 | Project Name | Team Members | Tagline | Project Link |
 | ------------ | -------------- | -------------- | -------------- |
 | Allergy Aware (Group 1) |  Nathan, Alyvia, Reid, Noah, Joshua, Salma  | TBD | TBD |
-| Build Stats (Group 2) |  TBD | TBD | TBD |
+| Build Stats (Group 2) |  Nolan, Jackson, Kyle, Brendan | TBD | TBD |
 | CrowdShip (Group 3) |  Aman, Ethan, Isabella, Neeraj, Omar, Stella | TBD | TBD |
-| SafeWalk (Group 4) |  William, Callum, Jack, Emila, Rena, Nikolas | TBD | TBD |
+| StreetSense (previously SafeWalk) (Group 4) |  William, Callum, Jack, Emila, Rena, Nikolas | TBD | TBD |
 | Spot On (Group 5) |  Alyssa, Ethan, Luiz, Paul, Adam, Aaron | TBD | TBD |
 | EasyPath (Group 6) |  Umit, Hoksolinvan, Harry, Karn, Sam | TBD | TBD |
 <br>
