@@ -83,12 +83,12 @@ Please see Brightspace for a more detailed and up to date version of the schedul
 
 | Project Name | Team Members | Tagline | Project Link |
 | ------------ | -------------- | -------------- | -------------- |
-| TBD (Group 1) |  TBD | TBD | TBD |
-| TBD (Group 2) |  TBD | TBD | TBD |
-| TBD (Group 3) |  TBD | TBD | TBD |
-| TBD (Group 4) |  TBD | TBD | TBD |
-| TBD (Group 5) |  TBD | TBD | TBD |
-| TBD (Group 6) |  TBD | TBD | TBD |
+| Allergy Aware (Group 1) |  Nathan, Alyvia, Reid, Noah, Joshua, Salma  | TBD | TBD |
+| Build Stats (Group 2) |  TBD | TBD | TBD |
+| CrowdShip (Group 3) |  Aman, Ethan, Isabella, Neeraj, Omar, Stella | TBD | TBD |
+| SafeWalk (Group 4) |  William, Callum, Jack, Emila, Rena, Nikolas | TBD | TBD |
+| Spot On (Group 5) |  Alyssa, Ethan, Luiz, Paul, Adam, Aaron | TBD | TBD |
+| EasyPath (Group 6) |  Umit, Hoksolinvan, Harry, Karn, Sam | TBD | TBD |
 <br>
 
 **Office Hour:** By appointment and before or after class.  [email](mailto:startup.programming@gmail.com) to set an alternative meeting time) 
