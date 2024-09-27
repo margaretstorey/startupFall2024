@@ -56,8 +56,8 @@ Please see Brightspace for a more detailed and up to date version of the schedul
 - [Juan Orrego](https://www.cuboh.com/), Co-Founder and CEO, Cuboh
 - [Aislinn Sirk](https://www.linkedin.com/in/aislinn-sirk-1728b119), Research Partnerships and Innovation Manager, UVic
 - [Nicole Smith](https://www.flytographer.com/), Founder and CEO, Flytographer
-- Garry Van Soest, Serial Founder
-- Maxwell Nicholson, Founder of Blossom Social  
+- [Garry Van Soest](https://www.linkedin.com/in/garry-van-soest-8a059612/?originalSubdomain=ca), Serial Founder
+- [Maxwell Nicholson](https://www.linkedin.com/in/maxwellnicholson/?originalSubdomain=ca), Founder of Blossom Social  
 - More to be added
 
 **Alumni Mentors and Presenters [from prior UVic Startup courses](https://github.com/margaretstorey/startup2024/tree/main/past%20semesters):**
