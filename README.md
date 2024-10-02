@@ -31,7 +31,7 @@ Please see Brightspace for a more detailed and up to date version of the schedul
 | 5 | 4 Oct, 2024   | 1:30-2:30 🔈 MVP, UX and Prototyping <br> 2:30-3:15 🔈 Project Management and Workflow Basics <br> 3:15-4:15 👥 Workshop for teams to develop project management draft plan in parallel to Coaching Clinic to Prepare for Milestone 1 | 
 | 6 | 11 Oct, 2024  | 1:30-4:30 🚩 Assignment 2: Milestone 1 presentation - Proof Of Concept (see Brightspace for the requirements) |    
 |   7 | 18 Oct, 2024 | 1:30-3:00 🔈 Business Model Canvas <br> 3:00-3:30  🔈 The Mom Test and collecting good customer feedback <br> 3:30-4:20 🔈 Pitching, branding, legal issues, monetization (open Q&A)         |
-|   8 | 25 Oct, 2024  | 1:00-1:30 🔈 Four Laws of Great concepts <br>  2:00-4:20 👥  Coaching clinic to get ready for Milestone 2 |
+|   8 | 25 Oct, 2024  | 1:30-2:00 🔈 Four Laws of Great concepts <br>  2:00-3:00 Guest Speaker <br> 3:00-4:20 👥  Coaching clinic to get ready for Milestone 2 |
 |   9 | 1 Nov, 2024 |1:30-4:30 🚩 Assignment 3: Milestone 2 presentation - Release Candidate (see Brightspace for the requirements)|                                                                                                      
 |  10 | 8 Nov, 2024 | 1:30-3:00 🔈 What Role can AI Play Now and in the Future <br> 3:00-4:20 🔈 Founder guest speaker panel – Juan Orrego, founder of Cuboh; Nicole Smith, founder of Flytographer  |                              
 |  11 | 15 Nov, 2024 | TBD based on course feedback |
