@@ -83,7 +83,7 @@ Please see Brightspace for a more detailed and up to date version of the schedul
 
 | Project Name | Team Members | Tagline | Project Link |
 | ------------ | -------------- | -------------- | -------------- |
-| Allergy Aware (Group 1) |  Nathan, Alyvia, Reid, Noah, Joshua, Salma  | TBD | TBD |
+| Allergy Aware (Group 1) |  Nathan, Alyvia, Reid, Noah, Joshua, Salma  | TBD | [GitHub Link](https://github.com/JoshoTheMosho/allergy-aware) |
 | Build Stats (Group 2) |  Nolan, Jackson, Kyle, Brendan | TBD | TBD |
 | CrowdShip (Group 3) |  Aman, Ethan, Isabella, Neeraj, Omar, Stella | TBD | TBD |
 | StreetSense (Group 4) |  William, Callum, Jack, Emila, Rena, Nikolas | TBD | [GitHub Link](https://github.com/renakollmannsuhr/StreetSense) |
