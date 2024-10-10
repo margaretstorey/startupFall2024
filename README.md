@@ -86,9 +86,9 @@ Please see Brightspace for a more detailed and up to date version of the schedul
 | Allergy Aware (Group 1) |  Nathan, Alyvia, Reid, Noah, Joshua, Salma  | TBD | TBD |
 | Build Stats (Group 2) |  Nolan, Jackson, Kyle, Brendan | TBD | TBD |
 | CrowdShip (Group 3) |  Aman, Ethan, Isabella, Neeraj, Omar, Stella | TBD | TBD |
-| StreetSense (previously SafeWalk) (Group 4) |  William, Callum, Jack, Emila, Rena, Nikolas | TBD | TBD |
+| StreetSense (Group 4) |  William, Callum, Jack, Emila, Rena, Nikolas | TBD | [GitHub Link](https://github.com/renakollmannsuhr/StreetSense) |
 | Spot On (Group 5) |  Alyssa, Ethan, Luiz, Paul, Adam, Aaron | TBD | TBD |
-| EasyPath (Group 6) |  Umit, Hoksolinvan, Harry, Karn, Sam | TBD | TBD |
+| nurtuRe (Group 6) |  Umit, Hoksolinvan, Harry, Karn, Sam | TBD | [GitHub Link](https://github.com/Hoksolinvan/SENG480A) |
 <br>
 
 **Office Hour:** By appointment and before or after class.  [email](mailto:startup.programming@gmail.com) to set an alternative meeting time) 
