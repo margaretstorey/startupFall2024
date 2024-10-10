@@ -83,12 +83,12 @@ Please see Brightspace for a more detailed and up to date version of the schedul
 
 | Project Name | Team Members | Tagline | Project Link |
 | ------------ | -------------- | -------------- | -------------- |
-| Allergy Aware (Group 1) |  Nathan, Alyvia, Reid, Noah, Joshua, Salma  | TBD | [GitHub Link](https://github.com/JoshoTheMosho/allergy-aware) |
-| Build Stats (Group 2) |  Nolan, Jackson, Kyle, Brendan | TBD | TBD |
+| Allergy Aware (Group 1) |  Alyvia, Joshua, Nathan, Noah, Reid, Salma  | TBD | [GitHub Link](https://github.com/JoshoTheMosho/allergy-aware) |
+| Build Stats (Group 2) |  Brendan, Jackson, Kyle, Nolan | TBD | TBD |
 | CrowdShip (Group 3) |  Aman, Ethan, Isabella, Neeraj, Omar, Stella | TBD | TBD |
-| StreetSense (Group 4) |  William, Callum, Jack, Emila, Rena, Nikolas | TBD | [GitHub Link](https://github.com/renakollmannsuhr/StreetSense) |
-| Spot On (Group 5) |  Alyssa, Ethan, Luiz, Paul, Adam, Aaron | TBD | TBD |
-| nurtuRe (Group 6) |  Umit, Hoksolinvan, Harry, Karn, Sam | TBD | [GitHub Link](https://github.com/Hoksolinvan/SENG480A) |
+| StreetSense (Group 4) |  Callum, Emila, Jack, Nikolas, Rena, William | TBD | [GitHub Link](https://github.com/renakollmannsuhr/StreetSense) |
+| Spot On (Group 5) |  Aaron, Adam, Alyssa, Ethan, Luiz, Paul | TBD | TBD |
+| nurtuRe (Group 6) |  Harry, Hoksolinvan, Karn, Sam, Umit | TBD | [GitHub Link](https://github.com/Hoksolinvan/SENG480A) |
 <br>
 
 **Office Hour:** By appointment and before or after class.  [email](mailto:startup.programming@gmail.com) to set an alternative meeting time) 
