@@ -87,7 +87,7 @@ Please see Brightspace for a more detailed and up to date version of the schedul
 | Build Stats (Group 2) |  Brendan, Jackson, Kyle, Nolan | TBD | [GitHub Link](https://github.com/Broondoon/build-stats) |
 | CrowdShip (Group 3) |  Aman, Ethan, Isabella, Neeraj, Omar, Stella | TBD | [GitHub Link](https://github.com/palodaman/crowdship) |
 | StreetSense (Group 4) |  Callum, Emila, Jack, Nikolas, Rena, William | TBD | [GitHub Link](https://github.com/renakollmannsuhr/StreetSense) |
-| Spot On (Group 5) |  Aaron, Adam, Alyssa, Ethan, Luiz, Paul | TBD | TBD |
+| Spot On (Group 5) |  Aaron, Adam, Alyssa, Ethan, Luiz, Paul | TBD | [GitHub Link](https://github.com/proj-overdrive) |
 | nurtuRe (Group 6) |  Harry, Hoksolinvan, Karn, Sam, Umit | TBD | [GitHub Link](https://github.com/Hoksolinvan/SENG480A) |
 <br>
 
