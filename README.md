@@ -30,7 +30,7 @@ Please see Brightspace for a more detailed and up to date version of the schedul
 |   4 | 27 Sept, 2024  |  1:30-2:15 🔈 Continue on Value Proposition Canvas Workshop + Customer Discovery and Segmentation <br>  2:15-3:00 🔈 Guest Speaker: Aislinn Sirk, Intellectual Property Now and in the Future <br> 3:00-4:20 🔈 Guest Speakers: Garry Van Soest, Serial Founder & Maxwell Nicholson – Founder of Blossom Social | 
 | 5 | 4 Oct, 2024   | 1:30-2:30 🔈 MVP, UX and Prototyping <br> 2:30-3:15 🔈 Project Management and Workflow Basics <br> 3:15-4:15 👥 Workshop for teams to develop project management draft plan in parallel to Coaching Clinic to Prepare for Milestone 1 | 
 | 6 | 11 Oct, 2024  | 🚩 Assignment 2: Milestone 1 presentation - Proof Of Concept (see Brightspace for the requirements) <br> 1:30-1:35 Welcome and Presentations setup <br> 1:35-2:00  👥  nurtuRe (Group 6) + Q&A and Mentors' Feedback <br> 2:00-2:25  👥 SpotOn (Group 5) + Q&A and Mentors' Feedback <br> 2:25-2:50  👥  StreetSense (Group 4) + Q&A and Mentors' Feedback <br> 2:50-3:00 ☕ Break <br> 3:00-3:25  👥  CrowdShip (Group 3) + Q&A and Mentors' Feedback <br> 3:25-3:50 👥  BuildStats (Group 2) + Q&A and Mentors' Feedback <br> 3:50-4:15  👥  Allergy Aware (Group 1) + Q&A and Mentors' Feedback <br> |    
-|   7 | 18 Oct, 2024 | 1:30-3:00 🔈 Business Model Canvas <br> 3:00-3:30  🔈 The Mom Test and collecting good customer feedback <br> 3:30-4:20 🔈 Pitching, branding, legal issues, monetization (open Q&A)         |
+|   7 | 18 Oct, 2024 | 1:30-2:10 🔈 Business Model Canvas <br> 2:10-2:50  🔈 The Mom Test and more <br> 2:50-3:00 ☕ Break <br> 3:00-4:20 🔈 Guest speaker: Don Mattrick        |
 |   8 | 25 Oct, 2024  | 1:30-2:00 🔈 Four Laws of Great concepts <br>  2:00-3:00 Guest Speaker <br> 3:00-4:20 👥  Coaching clinic to get ready for Milestone 2 |
 |   9 | 1 Nov, 2024 |1:30-4:30 🚩 Assignment 3: Milestone 2 presentation - Release Candidate (see Brightspace for the requirements)|                                                                                                      
 |  10 | 8 Nov, 2024 | 1:30-3:00 🔈 What Role can AI Play Now and in the Future <br> 3:00-4:20 🔈 Founder guest speaker panel – Juan Orrego, founder of Cuboh; Nicole Smith, founder of Flytographer  |                              
@@ -58,6 +58,7 @@ Please see Brightspace for a more detailed and up to date version of the schedul
 - [Nicole Smith](https://www.flytographer.com/), Founder and CEO, Flytographer
 - [Garry Van Soest](https://www.linkedin.com/in/garry-van-soest-8a059612/?originalSubdomain=ca), Serial Founder
 - [Maxwell Nicholson](https://www.linkedin.com/in/maxwellnicholson/?originalSubdomain=ca), Founder of Blossom Social  
+- [Don Mattrick](https://www.linkedin.com/in/don-mattrick-8b002783/?originalSubdomain=ca), CEO, Prometheus Ventures Inc (previous President at EA, Microsoft, Zynga)
 - More to be added
 
 **Alumni Mentors and Presenters [from prior UVic Startup courses](https://github.com/margaretstorey/startup2024/tree/main/past%20semesters):**
