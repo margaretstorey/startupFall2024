@@ -53,30 +53,31 @@ Please see Brightspace for a more detailed and up to date version of the schedul
 
 **Additional Presenters:**
 - [Steven Myhill-Jones](https://www.linkedin.com/in/steven-myhill-jones-6857607/?originalSubdomain=ca), Entrepreneur/Investor and Founder of Lattitude Geographics, Chairman/CEO Daily Journal Corporation
-- [Juan Orrego](https://www.cuboh.com/), Co-Founder and CEO, Cuboh
+- [Juan Orrego](https://www.cuboh.com/), Co-Founder & CEO, Cuboh
 - [Aislinn Sirk](https://www.linkedin.com/in/aislinn-sirk-1728b119), Research Partnerships and Innovation Manager, UVic
-- [Nicole Smith](https://www.flytographer.com/), Founder and CEO, Flytographer
+- [Nicole Smith](https://www.flytographer.com/), Founder & CEO, Flytographer
 - [Garry Van Soest](https://www.linkedin.com/in/garry-van-soest-8a059612/?originalSubdomain=ca), Serial Founder
 - [Maxwell Nicholson](https://www.linkedin.com/in/maxwellnicholson/?originalSubdomain=ca), Founder of Blossom Social  
 - [Don Mattrick](https://www.linkedin.com/in/don-mattrick-8b002783/?originalSubdomain=ca), CEO, Prometheus Ventures Inc (previous President at EA, Microsoft, Zynga)
+- [Jack Campbell](https://www.linkedin.com/in/jackcampbell4/?originalSubdomain=ca), Co-Founder & CEO, RentSimple
 - More to be added
 
 **Alumni Mentors and Presenters [from prior UVic Startup courses](https://github.com/margaretstorey/startup2024/tree/main/past%20semesters):**
 - [Alexey Zagalsky](http://alexeyza.com/) (Founder of the course at UVic and Tel Aviv!)
 - [Cliff McCollum](https://ca.linkedin.com/in/cliffmccollum)
 - [Ian Bull](http://ianbull.com/)
-- [Brad van Vugt](https://www.linkedin.com/in/bradvanvugt/), Co Founder & CEO, Battlesnake
+- [Brad van Vugt](https://www.linkedin.com/in/bradvanvugt/), Co-Founder & CEO, Battlesnake
 - [Gregory Schier](http://schier.co/)
 - [Eirini Kalliamvakou](https://www.linkedin.com/in/eirini-kalliamvakou-1016865/?originalSubdomain=ca)
 - [Arie van Deursen](http://www.st.ewi.tudelft.nl/~arie/)
 - [Steve Graham, Consulting CTO and Architect](https://www.linkedin.com/in/stevegraham2/)
 - [Sean Falconer](https://www.linkedin.com/in/seanf/), Head of Developer Relations, [Skyflow](https://www.skyflow.com/)
-- [Sam Mod](https://www.linkedin.com/in/samarthmod/?originalSubdomain=ca), CEO and Co-Founder, Freshworks Studio
+- [Sam Mod](https://www.linkedin.com/in/samarthmod/?originalSubdomain=ca), CEO & Co-Founder, Freshworks Studio
 - [Eric Jordan](https://www.linkedin.com/in/eric-jordan-97347111/), CEO Codename Entertainment
 - [David Yarish](https://www.linkedin.com/in/david-yarish-6a055614/), VP of Mobile Solutions and Co-Founder of Tutela Technologies (now OpenSignal)
 - [Matthew Smith](https://www.linkedin.com/in/matthew-smith250/), CEO & Co-Founder at Truss
-- [Nick Addison](https://www.linkedin.com/in/nick-addison-42a90012a/) Cofounder and CTO, Truss
-- [Humaira Ahmed](https://www.linkedin.com/in/humaira-ahmed-besthuman/), Founder and CEO, Best Human (formerly Locelle)
+- [Nick Addison](https://www.linkedin.com/in/nick-addison-42a90012a/) Co-Founder & CTO, Truss
+- [Humaira Ahmed](https://www.linkedin.com/in/humaira-ahmed-besthuman/), Founder & CEO, Best Human (formerly Locelle)
  
 
 <a name="teams-and-projects"></a>
